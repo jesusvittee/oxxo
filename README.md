@@ -32,3 +32,5 @@ Creado para que se pueda visualizar en el celular y tambien en la computadora.
 ![oxxo cell dos](https://github.com/jesusvittee/oxxo/assets/127768350/5ed5224f-c0cc-4b40-80f4-aaefcbc09769)
 ![oxxo-compu](https://github.com/jesusvittee/oxxo/assets/127768350/d730e3c1-b5a1-40b2-b097-e1287a69132d)
 
+
+#### Creditos : Jesus Nicolas Vite @jesusvittee
